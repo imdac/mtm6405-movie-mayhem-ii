@@ -15,7 +15,7 @@ Clone this repository from GitHub and use the provided file to complete the assi
 ### 2. Import the Movie Mayhem Database
 To import the database, using phpMyAdmin, complete the following instructions.
 
-1. Open phpMyAdmin at [http://phpmyadmin.test](http://phpmyadmin.test)
+1. Open phpMyAdmin at [http://phpmyadmin.test](http://phpmyadmin.test) (macOS) or [http://localhost/phpmyadmin](http://localhost/phpmyadmin) (Windows)
 2. Log into phpMyAdmin using the root username and password
 3. From the phpMyAdmin homepage, click on the "Import" tab found at the top of the page.
 4. Under the "File to import" section, click the "Choose File" button. Choose the `movie_mayhem.sql` file found in this repository.
@@ -49,8 +49,9 @@ Create **ONE** query for each of the tasks below. The queries should be saved in
 ## Submission
 1. Create a commit with the message "Completed the Movie Mayhem II Assignment"
 2. Push to GitHub
-3. Submit the URL to your GitHub Repository in BrightSpace
+3. Submit the URL to your GitHub Repository to the **Movie Mayhem II** assignment on BrightSpace
 
+## Plagiarism Honor Code
 By making the submission you also agree to the Algonquin College Student Attestation of Academic Integrity below: 
 
 **I hereby declare that the work I submit throughout the duration of this course/program will be my own work.**
